@@ -1,6 +1,1 @@
-#LibGDX Markup Language with VisUI widgets
-See [gdx-lml-vis](http://github.com/czyzby/gdx-lml-vis).
-
-This is a sample project with some template examples.
-
-Check it out on-line [here](http://czyzby.github.io/gdx-lml-vis-tests/) (note: might be slighlty outdated or use the last snapshot release with new features).
+Library moved to [another repository](https://github.com/czyzby/gdx-lml).
